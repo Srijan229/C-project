@@ -1,0 +1,11 @@
+Planet Name	Union ID
+Xaloria	PGU-001
+Theros	PGU-002
+Vespera	PGU-003
+Zyris	PGU-004
+Celestria	PGU-005
+Aetheron	PGU-006
+Lunara	PGU-007
+Draconis	PGU-008
+Elyndra	PGU-009
+Proxima Nova	PGU-010

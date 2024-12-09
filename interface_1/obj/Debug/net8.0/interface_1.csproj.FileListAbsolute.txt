@@ -1,0 +1,14 @@
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\interface_1\obj\Debug\net8.0\interface_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\interface_1\obj\Debug\net8.0\interface_1.AssemblyInfoInputs.cache
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\interface_1\obj\Debug\net8.0\interface_1.AssemblyInfo.cs
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\interface_1\obj\Debug\net8.0\interface_1.csproj.CoreCompileInputs.cache
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\interface_1\bin\Debug\net8.0\interface_1.exe
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\interface_1\bin\Debug\net8.0\interface_1.deps.json
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\interface_1\bin\Debug\net8.0\interface_1.runtimeconfig.json
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\interface_1\bin\Debug\net8.0\interface_1.dll
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\interface_1\bin\Debug\net8.0\interface_1.pdb
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\interface_1\obj\Debug\net8.0\interface_1.dll
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\interface_1\obj\Debug\net8.0\refint\interface_1.dll
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\interface_1\obj\Debug\net8.0\interface_1.pdb
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\interface_1\obj\Debug\net8.0\interface_1.genruntimeconfig.cache
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\interface_1\obj\Debug\net8.0\ref\interface_1.dll

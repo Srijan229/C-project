@@ -1,0 +1,14 @@
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\inheritence\bin\Debug\net8.0\inheritence.exe
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\inheritence\bin\Debug\net8.0\inheritence.deps.json
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\inheritence\bin\Debug\net8.0\inheritence.runtimeconfig.json
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\inheritence\bin\Debug\net8.0\inheritence.dll
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\inheritence\bin\Debug\net8.0\inheritence.pdb
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\inheritence\obj\Debug\net8.0\inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\inheritence\obj\Debug\net8.0\inheritence.AssemblyInfoInputs.cache
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\inheritence\obj\Debug\net8.0\inheritence.AssemblyInfo.cs
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\inheritence\obj\Debug\net8.0\inheritence.csproj.CoreCompileInputs.cache
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\inheritence\obj\Debug\net8.0\inheritence.dll
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\inheritence\obj\Debug\net8.0\refint\inheritence.dll
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\inheritence\obj\Debug\net8.0\inheritence.pdb
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\inheritence\obj\Debug\net8.0\inheritence.genruntimeconfig.cache
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\inheritence\obj\Debug\net8.0\ref\inheritence.dll

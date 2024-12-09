@@ -1,0 +1,14 @@
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\fileio1\bin\Debug\net8.0\fileio1.exe
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\fileio1\bin\Debug\net8.0\fileio1.deps.json
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\fileio1\bin\Debug\net8.0\fileio1.runtimeconfig.json
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\fileio1\bin\Debug\net8.0\fileio1.dll
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\fileio1\bin\Debug\net8.0\fileio1.pdb
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\fileio1\obj\Debug\net8.0\fileio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\fileio1\obj\Debug\net8.0\fileio1.AssemblyInfoInputs.cache
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\fileio1\obj\Debug\net8.0\fileio1.AssemblyInfo.cs
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\fileio1\obj\Debug\net8.0\fileio1.csproj.CoreCompileInputs.cache
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\fileio1\obj\Debug\net8.0\fileio1.dll
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\fileio1\obj\Debug\net8.0\refint\fileio1.dll
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\fileio1\obj\Debug\net8.0\fileio1.pdb
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\fileio1\obj\Debug\net8.0\fileio1.genruntimeconfig.cache
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\fileio1\obj\Debug\net8.0\ref\fileio1.dll

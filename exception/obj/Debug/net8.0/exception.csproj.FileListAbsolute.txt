@@ -1,0 +1,14 @@
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\exception\obj\Debug\net8.0\exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\exception\obj\Debug\net8.0\exception.AssemblyInfoInputs.cache
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\exception\obj\Debug\net8.0\exception.AssemblyInfo.cs
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\exception\obj\Debug\net8.0\exception.csproj.CoreCompileInputs.cache
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\exception\bin\Debug\net8.0\exception.exe
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\exception\bin\Debug\net8.0\exception.deps.json
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\exception\bin\Debug\net8.0\exception.runtimeconfig.json
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\exception\bin\Debug\net8.0\exception.dll
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\exception\bin\Debug\net8.0\exception.pdb
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\exception\obj\Debug\net8.0\exception.dll
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\exception\obj\Debug\net8.0\refint\exception.dll
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\exception\obj\Debug\net8.0\exception.pdb
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\exception\obj\Debug\net8.0\exception.genruntimeconfig.cache
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\c# programs\exception\obj\Debug\net8.0\ref\exception.dll
